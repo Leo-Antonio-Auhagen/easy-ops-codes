@@ -1,5 +1,5 @@
 # easy-ops-codes
-Provides the textual description for OPS codes as a dictionary
+Provides the textual description for OPS codes as a dictionary **in German**
 
 This project is based on the 2023 Version of the Operations and Procedures Codes.
 
